@@ -1,6 +1,6 @@
 class Set {
 private:
-    svector<int> elements;
+    vector<int> elements;
 
 public:
      //Function to check if an element belongs to the set
